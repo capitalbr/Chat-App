@@ -3,3 +3,7 @@
 /no_push
 
 # /frontend/src/assets/styles/.sass-cache
+.DS_Store
+
+.sass-cache
+.sass-cache/*

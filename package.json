@@ -1,7 +1,7 @@
 {
-  "name": "dungeonchat",
+  "name": "chatApp",
   "version": "1.0.0",
-  "description": "Online Async DnD - a/A MERNStack Group Project",
+  "description": "Chat App",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -16,20 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/burnwatt/dungeonChat.git"
+    "url": "git+ssh://git@github.com/capitalbr/dungeonChat.git"
   },
   "keywords": [
-    "online",
-    "dnd",
-    "chat",
-    "game"
+
   ],
-  "author": "burnwatt, stkterry MichaelWarnerJ, capitalbr",
+  "author": "burnwatt, capitalbr",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/burnwatt/dungeonChat/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/burnwatt/dungeonChat#readme",
+  "homepage": "www.google.com",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
